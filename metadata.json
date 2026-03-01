@@ -1,0 +1,5 @@
+{
+  "name": "KioskPro Remix",
+  "description": "A web-based remix of the Kiosk-Pro application featuring a modern, touch-friendly kiosk interface with a screensaver, gallery view, and admin panel.",
+  "requestFramePermissions": []
+}
